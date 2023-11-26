@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "E83RWeEyvz7/8aphWWqJx49OoMdYDOmb9FvCiyKDyQ0=",
+  "Source": "PetHeavenService",
+  "BasePath": "_content/PetHeavenService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
